@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d0a5ea2d-9efa-44ca-8ae1-d3e8906d9d87" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataCleaning/cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleaning/cleaning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCleaning/FillOut.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleaning/FillOut.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.FillOut.executor": "Run",
     "Python.cleaning.executor": "Run",
     "Python.prefile.executor": "Run",
     "Python.remplaceFrecuency.executor": "Run",
@@ -75,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731029169145</updated>
       <workItem from="1731029170270" duration="3588000" />
-      <workItem from="1731094848184" duration="8813000" />
+      <workItem from="1731094848184" duration="9738000" />
     </task>
     <servers />
   </component>
@@ -94,6 +95,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataAnalystWMM$FillOut.coverage" NAME="FillOut Coverage Results" MODIFIED="1731122530606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$cleaning.coverage" NAME="cleaning Coverage Results" MODIFIED="1731094899043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$prefile.coverage" NAME="prefile Coverage Results" MODIFIED="1731043335422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/predata" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$remplaceFrecuency.coverage" NAME="remplaceFrecuency Coverage Results" MODIFIED="1731100582347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
