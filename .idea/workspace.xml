@@ -7,8 +7,6 @@
     <list default="true" id="d0a5ea2d-9efa-44ca-8ae1-d3e8906d9d87" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataCleaning/cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleaning/cleaning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataCleaning/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleaning/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataCleaning/remplaceFrecuency.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleaning/remplaceFrecuency.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -45,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
-    "database.data.extractors.current.export.id": "SQL Inserts",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/christianlara/Desktop/DataAnalystWMM/predata",
     "node.js.detected.package.eslint": "true",
@@ -77,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731029169145</updated>
       <workItem from="1731029170270" duration="3588000" />
-      <workItem from="1731094848184" duration="5731000" />
+      <workItem from="1731094848184" duration="8813000" />
     </task>
     <servers />
   </component>
