@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d0a5ea2d-9efa-44ca-8ae1-d3e8906d9d87" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCleaning/Out_18.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DataCleaning/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleaning/data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,7 @@
     "Python.mapeoAutos.executor": "Run",
     "Python.mapeoBanos.executor": "Run",
     "Python.mapeoDispositivos.executor": "Run",
+    "Python.mapeoIngresos.executor": "Run",
     "Python.mapeoInternet.executor": "Run",
     "Python.prefile.executor": "Run",
     "Python.remplaceFrecuency.executor": "Run",
@@ -82,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731029169145</updated>
       <workItem from="1731029170270" duration="3588000" />
-      <workItem from="1731094848184" duration="14275000" />
+      <workItem from="1731094848184" duration="17032000" />
     </task>
     <servers />
   </component>
@@ -109,6 +111,7 @@
     <SUITE FILE_PATH="coverage/DataAnalystWMM$remplaceFrecuency.coverage" NAME="remplaceFrecuency Coverage Results" MODIFIED="1731100582347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoBanos.coverage" NAME="mapeoBanos Coverage Results" MODIFIED="1731210756382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoDispositivos.coverage" NAME="mapeoDispositivos Coverage Results" MODIFIED="1731211450832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
+    <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoIngresos.coverage" NAME="mapeoIngresos Coverage Results" MODIFIED="1731213618995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoInternet.coverage" NAME="mapeoInternet Coverage Results" MODIFIED="1731210005935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeo.coverage" NAME="mapeo Coverage Results" MODIFIED="1731209591164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
   </component>
