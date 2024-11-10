@@ -4,11 +4,11 @@ import pandas as pd
 df = pd.read_csv("data.csv")
 
 mapeo = {
-    "Masculino": 0,
-    "Femenino": 1
+    "No": 0,
+    "Sí": 1
 }
 
-change_columns = ['¿Cuál es tu género?']
+change_columns = ['  ¿Tienes acceso a Internet en tu hogar?  ']
 
 for col in change_columns:
     df[col] = df[col].map(mapeo)
