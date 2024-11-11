@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d0a5ea2d-9efa-44ca-8ae1-d3e8906d9d87" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataCleaning/cleaning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleaning/cleaning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataCleaning/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DataCleaning/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataCleaning/dataframe.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -43,6 +42,7 @@
     "Python.FillOutVideojuegos.executor": "Run",
     "Python.FilloutFrecuenciaParticip.executor": "Run",
     "Python.cleaning.executor": "Run",
+    "Python.colums.executor": "Run",
     "Python.comodin.executor": "Run",
     "Python.fillOutFanatico.executor": "Run",
     "Python.fillOutTiempoFan.executor": "Run",
@@ -73,7 +73,7 @@
     "com.codeium.enabled": "true",
     "database.data.extractors.current.export.id": "SQL Inserts",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/christianlara/Desktop/DataAnalystWMM/predata",
+    "last_opened_file_path": "/Users/christianlara/Downloads",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,6 +84,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Downloads" />
+      <recent name="$PROJECT_DIR$/graphics" />
       <recent name="$PROJECT_DIR$/predata" />
     </key>
   </component>
@@ -103,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731029169145</updated>
       <workItem from="1731029170270" duration="3588000" />
-      <workItem from="1731094848184" duration="29753000" />
+      <workItem from="1731094848184" duration="36702000" />
     </task>
     <servers />
   </component>
@@ -143,6 +145,7 @@
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoTiempoFanatico.coverage" NAME="mapeoTiempoFanatico Coverage Results" MODIFIED="1731223338747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeo.coverage" NAME="mapeo Coverage Results" MODIFIED="1731209591164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoPromocion.coverage" NAME="mapeoPromocion Coverage Results" MODIFIED="1731224238186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
+    <SUITE FILE_PATH="coverage/DataAnalystWMM$colums.coverage" NAME="colums Coverage Results" MODIFIED="1731298422549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$fillOutTiempoFan.coverage" NAME="fillOutTiempoFan Coverage Results" MODIFIED="1731224390993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$cleaning.coverage" NAME="cleaning Coverage Results" MODIFIED="1731094899043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$remplaceFrecuency.coverage" NAME="remplaceFrecuency Coverage Results" MODIFIED="1731260831879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
