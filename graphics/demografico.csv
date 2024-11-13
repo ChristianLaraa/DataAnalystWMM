@@ -1,0 +1,17 @@
+genero,estado_civil,nivel_educativo,promedio_ingreso_hogar,promedio_personas_hogar,promedio_personas_dependientes,total_personas
+0,Soltero,"Preparatoria Completa",3.6667,3.3333333333333335,2.3333333333333335,6
+1,Soltero,"Preparatoria Completa",4.0000,3,2.5,8
+0,Soltero,"Licenciatura Incompleta",3.5625,3.0625,1.875,32
+1,Soltero,"Licenciatura Incompleta",3.3889,3.111111111111111,2.111111111111111,36
+0,Soltero,"Carrera técnica incompleta",2.0000,3,1,2
+0,Soltero,"Licenciatura Completa",5.0000,3.5,1.5,4
+0,"En pareja","Licenciatura Incompleta",2.0000,3,3,1
+0,"Pareja ","Preparatoria Completa",4.0000,5,3,1
+1,Soltero,"Carrera técnica incompleta",0.0000,3,1,1
+0,Soltero,"Carrera técnica completa",2.6667,3.6666666666666665,2.3333333333333335,3
+1,"Con pareja","Licenciatura Incompleta",6.0000,3,1,1
+1,Concubinato,"Licenciatura Incompleta",2.0000,3,3,1
+1,Soltero,"Licenciatura Completa",4.0769,3,2.076923076923077,13
+0,Concubinato,"Licenciatura Completa",6.0000,5,1,1
+1,Concubinato,"Secundaria Completa",0.0000,3,3,1
+1,Concubinato,"Licenciatura Completa",5.0000,3,3,1
