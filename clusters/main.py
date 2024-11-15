@@ -20,7 +20,8 @@ selected_columns = [
     'frecuencia_compra_stickers_artistas',
     'frecuencia_compra_posters_artistas',
     'frecuencia_compra_bolsas_totes_artistas',
-    'frecuencia_compra_llaveros_pines_artistas'
+    'frecuencia_compra_llaveros_pines_artistas',
+    'frecuencia_consumo_musica'
 ]
 data_cluster = data[selected_columns].dropna()
 
