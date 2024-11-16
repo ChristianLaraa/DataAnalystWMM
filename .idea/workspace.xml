@@ -7,22 +7,11 @@
     <list default="true" id="d0a5ea2d-9efa-44ca-8ae1-d3e8906d9d87" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clusters/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/clusters/data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clusters/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/clusters/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumoVideoju.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/estadoCiv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/estado_civil.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frecuenciaEscuchaMusica.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/.~Book1__40830.twbr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/consumoMerch.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/consumoNivelEstado.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/consumoStreamNivelEdu.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/edad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/listasStreaming.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/musicaVideojuegosENS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/perfilsocioConsumoEnt.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/streamingPT.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ingresoMens.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/colums.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/colums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tables/generos.py" beforeDir="false" afterPath="$PROJECT_DIR$/tables/generos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -61,6 +50,7 @@
     "Python.clusters.executor": "Run",
     "Python.colums.executor": "Run",
     "Python.comodin.executor": "Run",
+    "Python.file2.executor": "Run",
     "Python.fillOutFanatico.executor": "Run",
     "Python.fillOutTiempoFan.executor": "Run",
     "Python.filloutDesc.executor": "Run",
@@ -95,7 +85,7 @@
     "com.codeium.enabled": "true",
     "database.data.extractors.current.export.id": "SQL Inserts",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/christianlara/Desktop/DataAnalystWMM/clusters",
+    "last_opened_file_path": "/Users/christianlara/Desktop/DataAnalystWMM/graphics",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -106,8 +96,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/clusters" />
       <recent name="$PROJECT_DIR$/graphics" />
+      <recent name="$PROJECT_DIR$/graphics/tablesgrap" />
+      <recent name="$PROJECT_DIR$/clusters" />
       <recent name="$USER_HOME$/Downloads" />
       <recent name="$PROJECT_DIR$/predata" />
     </key>
@@ -133,7 +124,7 @@
       <workItem from="1731029170270" duration="3588000" />
       <workItem from="1731094848184" duration="44619000" />
       <workItem from="1731455271152" duration="1586000" />
-      <workItem from="1731478954600" duration="9485000" />
+      <workItem from="1731478954600" duration="17457000" />
     </task>
     <servers />
   </component>
@@ -154,9 +145,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataAnalystWMM$ConveetFloatInt.coverage" NAME="ConveetFloatInt Coverage Results" MODIFIED="1731260414729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$FilloutFrecuenciaParticip.coverage" NAME="FilloutFrecuenciaParticip Coverage Results" MODIFIED="1731265804890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
-    <SUITE FILE_PATH="coverage/DataAnalystWMM$generos.coverage" NAME="generos Coverage Results" MODIFIED="1731611231389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tables" />
+    <SUITE FILE_PATH="coverage/DataAnalystWMM$generos.coverage" NAME="generos Coverage Results" MODIFIED="1731658890846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tables" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$FillOutVideojuegos.coverage" NAME="FillOutVideojuegos Coverage Results" MODIFIED="1731220602724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
-    <SUITE FILE_PATH="coverage/DataAnalystWMM$main.coverage" NAME="main Coverage Results" MODIFIED="1731526133779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clusters" />
+    <SUITE FILE_PATH="coverage/DataAnalystWMM$main.coverage" NAME="main Coverage Results" MODIFIED="1731663667999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clusters" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoFrecuenciaEscucha.coverage" NAME="mapeoFrecuenciaEscucha Coverage Results" MODIFIED="1731221670393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoFan.coverage" NAME="mapeoFan Coverage Results" MODIFIED="1731222484491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoHorasLib.coverage" NAME="mapeoHorasLib Coverage Results" MODIFIED="1731215147413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
@@ -177,7 +168,7 @@
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoTiempoFanatico.coverage" NAME="mapeoTiempoFanatico Coverage Results" MODIFIED="1731223338747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeo.coverage" NAME="mapeo Coverage Results" MODIFIED="1731209591164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoPromocion.coverage" NAME="mapeoPromocion Coverage Results" MODIFIED="1731224238186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
-    <SUITE FILE_PATH="coverage/DataAnalystWMM$colums.coverage" NAME="colums Coverage Results" MODIFIED="1731456168075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics" />
+    <SUITE FILE_PATH="coverage/DataAnalystWMM$colums.coverage" NAME="colums Coverage Results" MODIFIED="1731692365040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graphics" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$fillOutTiempoFan.coverage" NAME="fillOutTiempoFan Coverage Results" MODIFIED="1731224390993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$cleaning.coverage" NAME="cleaning Coverage Results" MODIFIED="1731094899043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1731387816442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clusters" />
@@ -188,5 +179,6 @@
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoImportanciaTendencias.coverage" NAME="mapeoImportanciaTendencias Coverage Results" MODIFIED="1731222345268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoImportnaciaRedes.coverage" NAME="mapeoImportnaciaRedes Coverage Results" MODIFIED="1731224109903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
     <SUITE FILE_PATH="coverage/DataAnalystWMM$mapeoNivelSocio.coverage" NAME="mapeoNivelSocio Coverage Results" MODIFIED="1731214867484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataCleaning" />
+    <SUITE FILE_PATH="coverage/DataAnalystWMM$file2.coverage" NAME="file2 Coverage Results" MODIFIED="1731690149204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clusters" />
   </component>
 </project>

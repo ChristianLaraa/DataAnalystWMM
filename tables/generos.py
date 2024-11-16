@@ -5,7 +5,7 @@ from collections import Counter
 df = pd.read_csv('data.csv')
 
 # Combina todas las palabras de la columna de géneros musicales en una sola lista
-all_genres = ' '.join(df['tipo_musica_simultaneo_videojuegos']).split()
+all_genres = ' '.join(df['razon_fan_artista']).split()
 
 # Cuenta la frecuencia de cada género
 genre_counts = Counter(all_genres)
@@ -17,6 +17,6 @@ genre_df = pd.DataFrame(genre_counts.items(), columns=['act', 'Frecuencia'])
 genre_df = genre_df.sort_values(by='Frecuencia', ascending=False).reset_index(drop=True)
 
 # Guardar el DataFrame en un archivo CSV
-genre_df.to_csv('simul_videojuegos.csv', index=False)
+genre_df.to_csv('razonBanda.csv', index=False)
 
 print(genre_df)
